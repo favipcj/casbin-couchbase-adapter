@@ -26,7 +26,7 @@ tomli==2.0.1
 typing-extensions==4.12.2
 virtualenv==20.26.3
 wheel==0.43.0
-
+tox
 # The following packages are considered to be unsafe in a requirements file:
 # pip
 # setuptools
